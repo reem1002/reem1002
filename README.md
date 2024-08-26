@@ -1,13 +1,10 @@
 ## Hi there, I'm Reem Mohamed 👋
 
-![Typing GIF](https://path-to-your-typing-gif.gif)
-
 ---
 
 ### Front-End Developer | Electrical and Computer Engineering Student
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/reem-abdel-fattah-146366260/)
-- 📷 [Instagram](https://www.instagram.com/just.reem44/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/just.reem44/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reem-abdel-fattah-146366260/)
 
 ---
 
@@ -15,12 +12,12 @@
 
 | 💻 Project | 🌟 Description |
 |------------|---------------|
-| [CapMusicApp](https://github.com/yourusername/CapMusicApp) | 🎵 A dynamic, responsive, and user-friendly music app. |
-| [El-takhazol-ChallengeApp](https://github.com/yourusername/El-takhazol-ChallengeApp) | 🛠 Overcome laziness and procrastination with this app. |
-| [Dashboard](https://github.com/yourusername/Dashboard) | 🖥 Fully responsive dashboard layout. |
-| [Insomnia--SocialMediaApp](https://github.com/yourusername/Insomnia--SocialMediaApp) | 📱 Social media app with Django and JavaScript. |
-| [Twitter Template](https://github.com/yourusername/Twitter) | 🐦 Twitter homepage template. |
-| [Quote-of-the-Day](https://github.com/yourusername/Quote-of-the-Day) | 💬 Displays a new quote every day. |
+| [CapMusicApp](https://github.com/reem1002/CapMusicApp) | 🎵 A dynamic, responsive, and user-friendly music app. |
+| [El-takhazol-ChallengeApp](https://github.com/reem1002/El-takhazol-ChallengeApp) | 🛠 Overcome laziness and procrastination with this app. |
+| [Dashboard](https://github.com/reem1002/Dashboard) | 🖥 Fully responsive dashboard layout. |
+| [Insomnia--SocialMediaApp](https://github.com/reem1002/Insomnia--SocialMediaApp) | 📱 Social media app with Django and JavaScript. |
+| [Twitter Template](https://github.com/reem1002/Twitter) | 🐦 Twitter homepage template. |
+| [Quote-of-the-Day](https://github.com/reem1002/Quote-of-the-Day) | 💬 Displays a new quote every day. |
 
 ---
 
